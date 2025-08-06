@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
   <br />
-      <img src="banner.png" alt="Project Banner">
+      <img style="border-radius: 20px;" src="Banner.png" alt="Project Banner">
   <br />
   <br />
   <div>
