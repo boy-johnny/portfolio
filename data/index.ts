@@ -9,7 +9,7 @@ export const gridItems = [
   {
     id: 1,
     title: "I prioritize client collaboration, fostering open communication ",
-    description: "",
+    description: "Mission",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -19,7 +19,7 @@ export const gridItems = [
   {
     id: 2,
     title: "I'm very flexible with time zone communications",
-    description: "",
+    description: "Availability",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -29,7 +29,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My tech stack",
-    description: "I constantly try to improve",
+    description: "Tech Stack",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -39,7 +39,7 @@ export const gridItems = [
   {
     id: 4,
     title: "Tech enthusiast with a passion for development.",
-    description: "",
+    description: "The Inside Scoop",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Help you find the best products",
+    description: "Projects",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -72,68 +72,59 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "E-commerce Website",
+    des: "A modern e-commerce website built with React, Tailwind CSS, and TypeScript.",
+    img: "/e-commerce.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/n8n.svg"],
+    link: "https://au.kakaduaustralia.com/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Affine",
+    des: "Affine is a modern, collaborative workspace that allows you to create, edit, and share documents with your team.",
+    img: "/affine.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://affine.pro/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
+    title: "Image AI",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    img: "/image-ai.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    link: "#",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Raycast Extension",
+    des: "A Raycast extension that allows you pick color from any image, and copy the color code to your clipboard.",
+    img: "/raycast.png",
+    iconLists: ["/re.svg", "/ts.svg"],
+    link: "https://github.com/boy-johnny/raycast-extension",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Brion is a great developer who is always willing to help and is very responsive. He is also very knowledgeable and has a great understanding of the latest technologies. I would highly recommend him to anyone looking for a developer.",
+    name: "John Doe",
+    title: "HR of Kakadu Australia",
+    img: "/john-doe.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Brion was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Brion's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Brion is the ideal partner.",
+    name: "Michael Tsai",
+    title: "Director of Mitochondrial Research",
+    img: "/doctor.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Brian is a creative and innovative developer who is always willing to help and is very responsive. He is also very knowledgeable and has a great understanding of the latest technologies. I would highly recommend him to anyone looking for a developer.",
+    name: "Denny Chen",
+    title: "The research assistant in NCKU",
+    img: "/denny.jpg",
   },
 ];
 
@@ -173,29 +164,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Engineer and Web Designer",
+    desc: "Built the Mitochondrial Research website from scratch using React.js.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Frontend Engineer & AI automation developer",
+    desc: "Developed the user-interface of e-commerce website using React.js, enchancing the efficiency of the website.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Full-stack Developer & Founder of GOODA",
+    desc: "Built a web-based SaaS app for AI optimization of photos.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Freelance Frontend Developer",
+    desc: "Developed and maintained user-facing features of open-source projects.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +196,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/boy-johnny",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https:/x.com/johnnyboy157951",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/brian-huang-ba3756369/",
   },
 ];
