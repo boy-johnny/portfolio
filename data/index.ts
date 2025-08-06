@@ -107,33 +107,24 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Brion is a great developer who is always willing to help and is very responsive. He is also very knowledgeable and has a great understanding of the latest technologies. I would highly recommend him to anyone looking for a developer.",
+    name: "John Doe",
+    title: "HR of Kakadu Australia",
+    img: "/john-doe.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Brion was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Brion's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Brion is the ideal partner.",
+    name: "Michael Tsai",
+    title: "Director of Mitochondrial Research",
+    img: "/doctor.jpg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Brian is a creative and innovative developer who is always willing to help and is very responsive. He is also very knowledgeable and has a great understanding of the latest technologies. I would highly recommend him to anyone looking for a developer.",
+    name: "Denny Chen",
+    title: "The research assistant in NCKU",
+    img: "/denny.jpg",
   },
 ];
 
