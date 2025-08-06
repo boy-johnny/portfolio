@@ -185,7 +185,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Freelance Frontend Developer of ",
+    title: "Freelance Frontend Developer",
     desc: "Developed and maintained user-facing features of open-source projects.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
